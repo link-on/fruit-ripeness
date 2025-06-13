@@ -14,6 +14,7 @@ Buka file [`ripeness_model.ipynb`](./ripeness_model.ipynb) untuk melihat keselur
 - Pelatihan model
 - Evaluasi
 - Inferensi
+
 Notebook ini dapat dijalankan langsung di Google Colab.
 Library yang digunakan:
 - pandas
